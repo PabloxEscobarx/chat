@@ -1,0 +1,44 @@
+.chatWrap {
+    width: 100%;
+    max-width: 407px;
+    border-radius: 4px;
+    border-bottom: 1px solid #2A5392;
+    background-color: #132D4B;
+    overflow: hidden;
+}
+
+.top {
+    justify-content: space-between;
+    padding: 16px;
+}
+
+.top, .leftTop {
+    display: flex;
+    align-items: center;
+}
+
+.leftTop {
+    gap: 16px;
+}
+
+.rightTop {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.leftTop p {
+    color: #FFF;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.bottom {
+    padding: 16px;
+    background-color: #0F192C;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    max-height: 560px;
+    overflow-x: auto;
+}
