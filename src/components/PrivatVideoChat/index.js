@@ -44,13 +44,13 @@ export const PrivatVideoChat = () => {
           Удалить их друзей <img src={remove} alt='' />
         </div>
         <div className={styles.btn}>
-          Удалить их друзей <img src={circle} alt='' />
+          Пожаловаться <img src={circle} alt='' />
         </div>
         <div className={styles.btn}>
-          Удалить их друзей <img src={info} alt='' />
+          Правила чата <img src={info} alt='' />
         </div>
         <div className={styles.btn}>
-          Удалить их друзей <img src={redArrow} alt='' />
+          Завершить видео чат <img src={redArrow} alt='' />
         </div>
       </div>
     </div>
