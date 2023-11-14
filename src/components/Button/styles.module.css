@@ -1,0 +1,12 @@
+.btnStyles {
+    cursor: pointer;
+    border-radius: 4px;
+    background: rgba(98, 112, 142, 0.30);
+    padding: 7px 10px;
+    color: white;
+}
+
+
+.activeBtn {
+    color: #FFDC64;
+}

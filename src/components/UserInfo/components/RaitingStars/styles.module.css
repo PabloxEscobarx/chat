@@ -1,0 +1,13 @@
+.raiting {
+    display: flex;
+    gap: 7px;
+    align-items: center;
+}
+
+.imgWrap {
+    width: 35px;
+}
+
+.img {
+    width: 100%;
+}

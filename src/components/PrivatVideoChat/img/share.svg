@@ -1,0 +1,38 @@
+<svg width="20" height="23" viewBox="0 0 20 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="20" height="23" fill="#F5F5F5"/>
+<g id="&#208;&#159;&#209;&#128;&#208;&#184;&#208;&#178;&#208;&#176;&#209;&#130;/&#208;&#180;&#209;&#128;&#209;&#131;&#208;&#183;&#209;&#140;&#209;&#143;" clip-path="url(#clip0_66_716)">
+<rect width="19441" height="4007" transform="translate(-5717 -937)" fill="#051423"/>
+<g id="Frame 345">
+<g clip-path="url(#clip1_66_716)">
+<rect id="Rectangle 69" x="-173.5" y="-286.5" width="406" height="622" rx="3.5" fill="#132D4B" stroke="#274066"/>
+<g id="Rectangle 109">
+<mask id="path-3-inside-1_66_716" fill="white">
+<path d="M-174 -283C-174 -285.209 -172.209 -287 -170 -287H230C231.657 -287 233 -285.657 233 -284V44H-174V-283Z"/>
+</mask>
+<path d="M-174 -283C-174 -285.209 -172.209 -287 -170 -287H230C231.657 -287 233 -285.657 233 -284V44H-174V-283Z" fill="#132D4B"/>
+<path d="M-174 -287H233H-174ZM233 45H-174V43H233V45ZM-174 44V-287V44ZM233 -287V44V-287Z" fill="#1A3F76" mask="url(#path-3-inside-1_66_716)"/>
+</g>
+<g id="Group 138">
+<rect id="Rectangle 77" x="-6.5" y="-5.5" width="33" height="33" rx="3.5" fill="#16233A" stroke="#2D3E67"/>
+<g id="icon-park:cast-screen">
+<g id="Group">
+<path id="Vector" d="M8.74967 18.4026C8.74967 14.3644 5.76492 11.0908 2.08301 11.0908" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M5.41634 18.403C5.41634 16.3839 3.92396 14.7471 2.08301 14.7471" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M2.29167 19.3172C2.86696 19.3172 3.33333 18.8057 3.33333 18.1747C3.33333 17.5437 2.86696 17.0322 2.29167 17.0322C1.71637 17.0322 1.25 17.5437 1.25 18.1747C1.25 18.8057 1.71637 19.3172 2.29167 19.3172Z" fill="white"/>
+<path id="Vector_4" d="M1.66699 7.91811V4.23633H18.3337V18.86H11.9883" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+<rect id="Rectangle 76" x="0.5" y="-0.5" width="406" height="622" rx="3.5" transform="matrix(1 0 0 -1 -174 335)" stroke="#2A5392"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_66_716">
+<rect width="19441" height="4007" fill="white" transform="translate(-5717 -937)"/>
+</clipPath>
+<clipPath id="clip1_66_716">
+<rect x="-174" y="-287" width="407" height="623" rx="4" fill="white"/>
+</clipPath>
+</defs>
+</svg>
