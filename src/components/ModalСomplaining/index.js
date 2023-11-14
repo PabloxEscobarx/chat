@@ -22,8 +22,9 @@ export const ModalComplaining = ({ isOpen, onClose, name }) => {
         <div className={styles.about}>
           <p>Укажите причину жалобы на хостес <span>{name}</span></p>
         </div>
-        <form>
-          <input type='text'  placeholder={'Опишите свою жалобу'}/>
+        <form className={styles.form}>
+          <textarea className={styles.textArea} placeholder={'Опишите свою жалобу'} />
+          <button className={styles.btn}>Пожаловаться</button>
         </form>
       </div>
     </div>

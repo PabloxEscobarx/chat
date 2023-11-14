@@ -1,21 +1,17 @@
 import './App.css'
 import { useState } from 'react'
-import { Privat } from './components/Privat/Privat'
-import {PrivatVideoChat} from "./components/PrivatVideoChat";
+import { ModalComplaining } from './components/ModalСomplaining'
 
 function App() {
   const [modalOpen, setModalOpen] = useState(false)
 
-  const openModal = () => {
-    setModalOpen(true)
-  }
+  const openModal = () => setModalOpen(true)
 
-  const closeModal = () => {
-    setModalOpen(false)
-  }
+  const closeModal = () => setModalOpen(false)
   return (
     <div className='App'>
-      <PrivatVideoChat />
+      <ModalComplaining isOpen={modalOpen} onClose={closeModal} name={'Ангелина'} />
+      <button onClick={openModal}>CLICK here</button>
     </div>
   )
 }
